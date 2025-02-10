@@ -1,0 +1,2 @@
+name,bus,p_nom,marginal_cost,state_of_charge_initial,max_hours,inflow,efficiency_store
+Hydro SA,South Africa,100,0,400,4,10,0
